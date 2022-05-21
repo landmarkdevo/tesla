@@ -1,3 +1,3 @@
 prometheus
 grafana
-newrelic
+newrelio
